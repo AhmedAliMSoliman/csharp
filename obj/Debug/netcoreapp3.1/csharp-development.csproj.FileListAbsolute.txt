@@ -1,0 +1,11 @@
+C:\AHMED\WindowsWorkspace\csharp-development\bin\Debug\netcoreapp3.1\csharp-development.exe
+C:\AHMED\WindowsWorkspace\csharp-development\bin\Debug\netcoreapp3.1\csharp-development.deps.json
+C:\AHMED\WindowsWorkspace\csharp-development\bin\Debug\netcoreapp3.1\csharp-development.runtimeconfig.json
+C:\AHMED\WindowsWorkspace\csharp-development\bin\Debug\netcoreapp3.1\csharp-development.runtimeconfig.dev.json
+C:\AHMED\WindowsWorkspace\csharp-development\bin\Debug\netcoreapp3.1\csharp-development.dll
+C:\AHMED\WindowsWorkspace\csharp-development\bin\Debug\netcoreapp3.1\csharp-development.pdb
+C:\AHMED\WindowsWorkspace\csharp-development\obj\Debug\netcoreapp3.1\csharp-development.csprojAssemblyReference.cache
+C:\AHMED\WindowsWorkspace\csharp-development\obj\Debug\netcoreapp3.1\csharp-development.AssemblyInfoInputs.cache
+C:\AHMED\WindowsWorkspace\csharp-development\obj\Debug\netcoreapp3.1\csharp-development.AssemblyInfo.cs
+C:\AHMED\WindowsWorkspace\csharp-development\obj\Debug\netcoreapp3.1\csharp-development.dll
+C:\AHMED\WindowsWorkspace\csharp-development\obj\Debug\netcoreapp3.1\csharp-development.pdb
